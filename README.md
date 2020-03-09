@@ -16,3 +16,10 @@ Resources | Links
 **Introduction** | :mortar_board:
 Course Information | https://fast.wistia.net/embed/iframe/vj6bocvz0r
 
+### 03. INSTALLATION AND CONFIGURATION
+
+Resources | Links
+--- | --- 
+**Introduction** | :mortar_board:
+Introduction to Installation and Configuration | https://fast.wistia.net/embed/iframe/rs8090vsss
+
