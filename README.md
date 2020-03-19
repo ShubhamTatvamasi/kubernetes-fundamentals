@@ -23,3 +23,12 @@ Resources | Links
 **Introduction** | :mortar_board:
 Introduction to Installation and Configuration | https://fast.wistia.net/embed/iframe/rs8090vsss
 
+
+### 04. KUBERNETES ARCHITECTURE
+
+Resources | Links
+--- | --- 
+**Introduction** | :mortar_board:
+Introduction to Kubernetes Architecture | https://fast.wistia.net/embed/iframe/72ihv9jooe
+
+
