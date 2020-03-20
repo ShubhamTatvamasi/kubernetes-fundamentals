@@ -20,11 +20,12 @@ Resources | Links
 --- | ---
 Introduction to Installation and Configuration | https://fast.wistia.net/embed/iframe/rs8090vsss
 
-
 ### 04. KUBERNETES ARCHITECTURE
 
 Resources | Links
 --- | ---
 Introduction to Kubernetes Architecture | https://fast.wistia.net/embed/iframe/72ihv9jooe
 Rewrite Legacy Applications | https://fast.wistia.net/embed/iframe/vlgq4uf2cy
+API Call Flow | https://fast.wistia.net/embed/iframe/mtgnf5b2e1
+
 
