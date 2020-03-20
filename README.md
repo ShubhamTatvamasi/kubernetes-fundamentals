@@ -28,4 +28,11 @@ Introduction to Kubernetes Architecture | https://fast.wistia.net/embed/iframe/7
 Rewrite Legacy Applications | https://fast.wistia.net/embed/iframe/vlgq4uf2cy
 API Call Flow | https://fast.wistia.net/embed/iframe/mtgnf5b2e1
 
+### 05. APIS AND ACCESS
+
+Resources | Links
+--- | ---
+Introduction to APIs and Access | https://fast.wistia.net/embed/iframe/lguec0mmkz
+
+
 
