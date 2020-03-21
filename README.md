@@ -34,5 +34,11 @@ Resources | Links
 --- | ---
 Introduction to APIs and Access | https://fast.wistia.net/embed/iframe/lguec0mmkz
 
+### 06. API OBJECTS
+
+Resources | Links
+--- | ---
+Introduction to API Objects | https://fast.wistia.net/embed/iframe/hjzq7is153
+
 
 
