@@ -46,4 +46,9 @@ Resources | Links
 --- | ---
 Introduction to Managing State with Deployments | https://fast.wistia.net/embed/iframe/nmltfa8dyw
 
+### 08. SERVICES
+
+Resources | Links
+--- | ---
+Introduction to Services | https://fast.wistia.net/embed/iframe/0rzc6m0ydr
 
