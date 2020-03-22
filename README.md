@@ -40,5 +40,10 @@ Resources | Links
 --- | ---
 Introduction to API Objects | https://fast.wistia.net/embed/iframe/hjzq7is153
 
+### 07. MANAGING STATE WITH DEPLOYMENTS
+
+Resources | Links
+--- | ---
+Introduction to Managing State with Deployments | https://fast.wistia.net/embed/iframe/nmltfa8dyw
 
 
