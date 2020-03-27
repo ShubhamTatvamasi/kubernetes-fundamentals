@@ -64,5 +64,11 @@ Resources | Links
 --- | ---
 Introduction to Ingress | https://fast.wistia.net/embed/iframe/3unjjn9m3i
 
+### 11. SCHEDULING
+
+Resources | Links
+--- | ---
+Introduction to Scheduling | https://fast.wistia.net/embed/iframe/uegz89uvou
+
 
 
