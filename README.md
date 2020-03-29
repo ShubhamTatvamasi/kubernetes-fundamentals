@@ -70,5 +70,12 @@ Resources | Links
 --- | ---
 Introduction to Scheduling | https://fast.wistia.net/embed/iframe/uegz89uvou
 
+### 12. LOGGING AND TROUBLESHOOTING
+
+Resources | Links
+--- | ---
+Introduction to Logging and Troubleshooting | https://fast.wistia.net/embed/iframe/9bbv1l8z1z
+
+
 
 
