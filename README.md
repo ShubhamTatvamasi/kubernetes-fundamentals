@@ -88,6 +88,12 @@ Resources | Links
 --- | ---
 Introduction to Helm | https://fast.wistia.net/embed/iframe/ww9n4ivx02
 
+### 15. SECURITY
+
+Resources | Links
+--- | ---
+Introduction to Security | https://fast.wistia.net/embed/iframe/kfkzv9kymx
+
 
 
 
