@@ -82,6 +82,13 @@ Resources | Links
 --- | ---
 Introduction to Custom Resource Definitions | https://fast.wistia.net/embed/iframe/jmqg066y81
 
+### 14. HELM
+
+Resources | Links
+--- | ---
+Introduction to Helm | https://fast.wistia.net/embed/iframe/ww9n4ivx02
+
+
 
 
 
