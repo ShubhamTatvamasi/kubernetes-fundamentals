@@ -76,6 +76,12 @@ Resources | Links
 --- | ---
 Introduction to Logging and Troubleshooting | https://fast.wistia.net/embed/iframe/9bbv1l8z1z
 
+### 13. CUSTOM RESOURCE DEFINITIONS
+
+Resources | Links
+--- | ---
+Introduction to Custom Resource Definitions | https://fast.wistia.net/embed/iframe/jmqg066y81
+
 
 
 
